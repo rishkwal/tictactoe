@@ -1,12 +1,15 @@
 *{
   border:0px;
   padding: 0px;
-  
 }
+body{
+  background-image: linear-gradient(yellow, pink);
+  }
+
 
 .everything {
   display: flex;
-  border: 1px solid red;
+  border: 15px solid pink;
   height: 306px;
   width: 306px;
   flex-wrap: wrap;
@@ -15,6 +18,7 @@
   left: 50%;
   transform: translate(-50%,-50%);
   background-image: linear-gradient(red,blue);
+  border-radius: 15px;
   
   
 }
