@@ -1,3 +1,3 @@
 # tictactoe
 
-[TicTacToe by Rishabh - Click here to play](tictactoe-by-rishabh.netlify.app)
+[TicTacToe by Rishabh - Click here to play](https://www.tictactoe-by-rishabh.netlify.app)
