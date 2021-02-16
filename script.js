@@ -198,5 +198,13 @@ if(boxContent[3]==0)
       {
         alert("Game Over");
       }
-      
+if(clickCount==9 && win ==0)
+{
+  var dec = document.getElementById("declaration");
+  var drawText = document.createTextNode("It's a draw!");
+  var drawTextEle = document.createElement('h1');
+  drawTextEle.appendChild(drawText);
+  dec.appendChild(drawTextEle);
+  
+}
     }

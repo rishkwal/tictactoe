@@ -73,7 +73,7 @@ h1{
   display: inline-block;
   position: relative;
   left: 50%;
-  transform: translate(-50%, 20%);
-  box-shadow: 10px 10px;
+  transform: translate(-45, 15%);
+  
  }
 
