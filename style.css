@@ -54,7 +54,7 @@ h1{
   padding: 50px 50px;
   font-size: 50px;
   text-align: center;
-  background-color: #4CAF50;
+  background-color: #4c9baf;
   border-radius: 15px;
  display: inline-block;
  position: relative;
@@ -62,3 +62,4 @@ h1{
  transform: translate(-50%, 20%);
  box-shadow: 10px 10px;
 }
+
