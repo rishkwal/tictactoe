@@ -205,6 +205,7 @@ if(clickCount==9 && win ==0)
   var drawTextEle = document.createElement('h1');
   drawTextEle.appendChild(drawText);
   dec.appendChild(drawTextEle);
+  clickCount++;
   
 }
     }
